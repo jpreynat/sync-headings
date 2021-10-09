@@ -43,6 +43,10 @@ Start numbering with offset:
 1. foo
 2. bar
 
+Tasks ?
+- [ ] Unchecked
+- [x] Checked
+
 ## Code
 
 Inline `code`
